@@ -1,4 +1,3 @@
-
 # Molecular Dynamics Trajectory Analysis of P-glycoprotein Under Plasma-Derived Reactive Species
 
 A collection of Python-based post-processing tools for analyzing molecular dynamics (MD) simulation data, with a focus on residue-level energetics, hydrogen-bond interactions, data processing, and visualization.
@@ -21,8 +20,6 @@ Tools for processing molecular dynamics outputs and examining residue-level data
 - Extracting and comparing force-related quantities across amino-acid residues.
 - Generating plots to visualize residue-level force contributions.
 
-**Repository:** [GROMACS Data Analysis](https://github.com/Haniyekzm/Gromacs-Data-Analysis)
-
 ### 2. Hydrogen-Bond Analysis
 
 Tools for characterizing hydrogen-bond participation across simulation frames.
@@ -31,8 +28,6 @@ Tools for characterizing hydrogen-bond participation across simulation frames.
 - Summarizing residue-level hydrogen-bond counts.
 - Examining the distribution of hydrogen-bond participation across the protein.
 - Supporting analysis of interaction patterns relevant to structural stability.
-
-**Repository:** [Hydrogen Bond Counting](https://github.com/Haniyekzm/Hydrogen-Bond-Counting-)
 
 ### 3. Residue-Level Energy Analysis
 
@@ -43,8 +38,6 @@ Scripts for processing amino-acid energy values and identifying residues of inte
 - Comparing and organizing residue-level energetic data.
 - Preparing processed datasets for further analysis.
 
-**Repository:** [Amino Acid Energy Filtering](https://github.com/Haniyekzm/Amino-Acid-Energy-Filtering)
-
 ### 4. Energy Visualization
 
 Visualization tools for examining energy distributions across amino-acid residues.
@@ -54,9 +47,6 @@ Visualization tools for examining energy distributions across amino-acid residue
 - Pie charts separating negative from non-negative energy values.
 - Graphical summaries to facilitate interpretation of processed data.
 
-**Repositories:**
-- [Amino Acid Energy Visualization](https://github.com/Haniyekzm/Amino-Acid-Energy-Visualization)
-- [Pie Chart Visualization](https://github.com/Haniyekzm/Pie-Chart-Visualization)
 
 ### 5. Data Processing and Organization
 
@@ -66,8 +56,6 @@ Scripts and notebooks for sorting, organizing, and preparing simulation-derived 
 - Organizing hydrogen-bond data across simulation frames.
 - Extracting and sorting residue-level information.
 - Preparing structured datasets for downstream analysis.
-
-**Repository:** [Data Sorting](https://github.com/Haniyekzm/Data-sorting)
 
 ## Tools and Technologies
 
